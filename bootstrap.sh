@@ -19,5 +19,5 @@ cd ..
 # Initialize PyTorch 2.0 venv
 cd pytorch2
 install_dependencies
-cd..
+cd ..
 
